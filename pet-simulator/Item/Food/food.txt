@@ -1,0 +1,10 @@
+1 | Kibble
+2 | Bone
+3 | Fish
+4 | Apple
+5 | Carrot
+6 | Biscuit
+7 | Meat
+8 | Milk
+9 | Vegetables
+10 | Canned Food
