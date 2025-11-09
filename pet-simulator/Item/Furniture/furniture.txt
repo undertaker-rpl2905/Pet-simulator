@@ -1,0 +1,8 @@
+1 | Bed
+2 | Food Bowl
+3 | Scratching Post
+4 | Small Fish Tank
+5 | Lamp
+6 | Cushion
+7 | Toy
+8 | Cat Tree
